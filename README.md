@@ -1,4 +1,4 @@
-# Pong
+# VolleyPong
 This project replicates Pong, the table tennis–themed arcade video game originally released by Atari in 1972. The theme for this
 game is singles volleyball played between two players, one blue player and one red player. The colors signify that the two players are opponents.
 One of the players is controlled by the user while the other user is AI 
